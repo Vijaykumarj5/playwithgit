@@ -6,3 +6,8 @@ if a>b:
     print("a is greater")
 else:
     print("b is greater")
+
+#if elif
+
+c = 3
+d = 5
