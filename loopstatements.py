@@ -11,3 +11,4 @@ else:
 
 c = 3
 d = 5
+print(c+d)
